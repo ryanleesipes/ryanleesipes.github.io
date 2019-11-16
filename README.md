@@ -14,9 +14,9 @@
 
 I lend my time and talents to a few projects. Check them out!
 
-| [![Thunderbird icon](images/icons/thunderbird.svg)](https://thunderbird.net) | [![elementary icon](https://elementary.io/images/icons/places/128/distributor-logo.svg)](https://elementary.io) | [![Caster icon](images/icons/casticon.png)](https://github.com/ryanleesipes/caster) |
+| [![Thunderbird icon](images/icons/thunderbird.svg)](https://thunderbird.net) | [![The Last Peacekeeper](images/icons/last_peacekeeper_profile.png)](https://elementary.io) |
 |---|---|---|
-| [Thunderbird](https://thunderbird.net) | [elementary OS](https://elementary.io) | [Caster](https://github.com/ryanleesipes/caster) |
+| [Thunderbird](https://thunderbird.net) | [Last Peacekeeper](https://lispysnake.com/the-last-peacekeeper/) |
 
 
 ## Find Me Online
@@ -35,9 +35,9 @@ Follow my day-to-day musings via my blog, Twitter, or Mastodon.
 
 <a href="https://blog.ryanleesipes.me" class="read-more blog"><i class="fas fa-fw fa-blog"></i>Read posts on blog</a>
 
-<a rel="me" href="https://mastodon.social/@ryanleesipes" class="read-more mastodon"><i class="fab fa-fw fa-mastodon"></i>Follow on Mastodon</a>
-
 <a href="https://twitter.com/ryanleesipes" class="read-more twitter"><i class="fab fa-fw fa-twitter"></i>See tweets</a>
+
+<a rel="me" href="https://mastodon.social/@ryanleesipes" class="read-more mastodon"><i class="fab fa-fw fa-mastodon"></i>Follow on Mastodon</a>
 
 ### Playing
 
