@@ -6,7 +6,7 @@
     <ul class="fa-ul">
         <li><i class="fa-li fa fa-briefcase"></i>Community and Business Development Manager for <a href="https://thunderbird.net">Mozilla Thunderbird</a></li>
         <li><i class="fa-li fa fa-birthday-cake"></i><span id="age">{% include age.html %}</span> Years Old</li>
-        <li><i class="fa-li fa fa-map-marker"></i>Lives in <a href="https://goo.gl/maps/K4Gtr3aXkzxNCPjr8">Salida, CO</a></li>
+        <!--<li><i class="fa-li fa fa-map-marker"></i>Lives in <a href="https://goo.gl/maps/K4Gtr3aXkzxNCPjr8">Salida, CO</a></li>-->
     </ul>
 </div>
 
@@ -14,9 +14,9 @@
 
 I lend my time and talents to a few projects. Check them out!
 
-| [![Thunderbird icon](images/icons/thunderbird.svg)](https://thunderbird.net) | [![The Last Peacekeeper](images/icons/last_peacekeeper_profile.png)](https://elementary.io) |
+| [![Thunderbird icon](images/icons/thunderbird.svg)](https://thunderbird.net) | [![Glance Money](images/icons/glance-logo.png)](https://glance.money) |
 |---|---|---|
-| [Thunderbird](https://thunderbird.net) | [Last Peacekeeper](https://lispysnake.com/the-last-peacekeeper/) |
+| [Thunderbird](https://thunderbird.net) | [Glance Money](https://glance.money) |
 
 
 ## Find Me Online
