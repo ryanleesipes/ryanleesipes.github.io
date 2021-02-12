@@ -6,7 +6,7 @@ To work on amazing open source projects that empower people by promoting privacy
 
 ## Experience
 
-I've founded a successful startup, built strong communities, and am helping lead a project serving ~30,000,000 users.
+I've founded a successful startup, built strong communities, and am helping lead a project serving ~20,000,000 monthly users.
 
 ### Mozilla Thunderbird _2017–present_
 
