@@ -15,7 +15,7 @@ I've founded a successful startup, built strong communities, and am helping lead
 ##### Achievements:
 
 - Have helped revitalize Thunderbird's image, reversing the perception that the project was dead.
-- Increased donations to the project by nearly 300% by analyzing how we engaged with donors and adjusting strategy accordingly.
+- Increased donations to the project by nearly 4x (from ~500k/yr to >$2M/yr) by analyzing how we engaged with donors and adjusting strategy accordingly.
 - Created and now maintain the [Thunderbird Developer Documentation](https://developer.thunderbird.net).
 - Lead the creation of the product vision for 2019 (Thunderbird 76).
 - Developed mutually beneficial partnerships with organizations to further Thunderbird's mission and enhance the product.
